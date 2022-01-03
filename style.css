@@ -1,0 +1,25 @@
+body {
+  min-height: 2800px;
+}
+
+#Home {
+  background: rgb(222, 184, 135);
+}
+.jumbotron {
+  padding-top: 8rem;
+  background: rgb(222, 184, 135);
+}
+
+#Gallery {
+  background: rgb(222, 184, 135);
+}
+
+#Contact-Us {
+  background: rgb(222, 184, 135);
+}
+section {
+  padding-top: 5rem;
+}
+footer {
+  background: rgb(100, 149, 237);
+}
